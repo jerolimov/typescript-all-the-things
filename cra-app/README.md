@@ -1,10 +1,12 @@
 # Create React App
 
-Created [Create React App](https://github.com/facebook/create-react-app).
+[Create React App](https://github.com/facebook/create-react-app)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[TypeScript](https://create-react-app.dev/docs/adding-typescript/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
+
+[React documentation](https://reactjs.org/)
 
 ## Setup
 
