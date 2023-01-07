@@ -5,11 +5,14 @@
 * [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 * To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
 
+## Requirements
+
+* @sveltejs/kit@1.0.7 requires Node ^16.14 || >=18
+
 ## Setup
 
 ```bash
-➜  typescript-all-the-things git:(main) ✗ npm create svelte@latest
-npx: installed 5 in 2.175s
+➜  npm create svelte@latest
 
 create-svelte version 2.1.0
 
@@ -51,6 +54,10 @@ Next steps:
 * npm run dev -- --open
 * npm run build
 * npm run preview
+* npm run check
+* npm run test:unit
+* npm run lint
+* npm run format
 
 ## Dependencies
 
@@ -61,6 +68,7 @@ Next steps:
 * prettier
 * typescript and tslib
 * vite
+* vitest
 
 ## Project structure
 
